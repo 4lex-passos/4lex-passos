@@ -15,7 +15,7 @@
     </a>
 
     <a href="mailto:alex.yomare@gmail.com">
-        <img src="https://img.shields.io/static/v1?label=Gmail&message=SEND&color=c93529&style=for-the-badge&logo=Gmail"/>
+        <img src="https://img.shields.io/static/v1?label=E-mail&message=send email&color=EA4335&style=for-the-badge&logo=Gmail"/>
     </a>
 </p>
 
