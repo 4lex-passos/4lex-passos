@@ -10,8 +10,13 @@
 <p align="center">Api websocket que retorna a hora em tempo real</p>
 
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=Status&message=FINISHED&color=09c89f&style=for-the-badge&logo=ghost"/>
-<img src="https://img.shields.io/static/v1?label=License&message=Mit&color=09c89f&style=for-the-badge&logo=Ghost"/>
+    <a href="https://www.linkedin.com/in/4lex-passos/">
+        <img src="https://img.shields.io/static/v1?label=LinkedIn&message=View&color=0A66C2&style=for-the-badge&logo=LinkedIn"/>
+    </a>
+
+    <a href="mailto:alex.yomare@gmail.com">
+        <img src="https://img.shields.io/static/v1?label=Gmail&message=SEND&color=c93529&style=for-the-badge&logo=Gmail"/>
+    </a>
 </p>
 
 </br>
