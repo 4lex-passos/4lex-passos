@@ -13,7 +13,8 @@
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4lex-passos&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4lex-passos&show_icons=true&theme=radical)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4lex-passos&show_icons=true)
 
 
