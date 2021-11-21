@@ -16,10 +16,3 @@
 </p>
 
 </br>
-
-<p alt="INSTALAÇÃO" align="center">
-    <img src="https://github.com/4lex-passos/Realtime_Clock_FRONT-END/blob/master/public/README-TITLES-INSTALA%C3%87%C3%83O.png" />
-</p>
-
-### CLONANDO O REPOSITÓRIO:
-</br>
