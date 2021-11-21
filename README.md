@@ -14,3 +14,5 @@
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4lex-passos)](https://github.com/4lex-passos/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4lex-passos&hide=contribs,prs)
+
