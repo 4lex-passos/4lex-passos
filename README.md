@@ -3,12 +3,6 @@
     <img src="https://github.com/4lex-passos/4lex-passos/blob/main/README-HEADER.png" />
 </p>
 
-<h4 align="center">
-    NodeJSㅤ᎓ㅤSocket.ioㅤ᎓ㅤExpressJS
-</h4>
-
-<p align="center">Api websocket que retorna a hora em tempo real</p>
-
 <p align="center">
   
   <a href="https://www.linkedin.com/in/4lex-passos/">
