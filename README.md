@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://github.com/4lex-passos/NodeAPI-with-Websockets/blob/master/public/README-HEADER-TEMPLATE-2000x614.png" />
+    <img src="https://github.com/4lex-passos/4lex-passos/blob/main/README-HEADER.png" />
 </p>
 
 <h4 align="center">
