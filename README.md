@@ -12,8 +12,8 @@
     <img src="https://img.shields.io/static/v1?label=E-mail&message=send&color=EA4335&style=for-the-badge&logo=Gmail"/>
   </a>
     
-  <a href="https://github.com/4lex-passos">
-    <img src="https://img.shields.io/static/v1?label=E-mail&message=send&color=181717&style=for-the-badge&logo=GitHub"/>
+  <a href="https://github.com/4lex-passos?tab=repositories">
+    <img src="https://img.shields.io/static/v1?label=GitHub&message=Repos&color=181717&style=for-the-badge&logo=GitHub"/>
   </a>
 </p>
 
