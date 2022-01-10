@@ -17,7 +17,7 @@
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4lex-passos&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodd23&show_icons=true)
 ![Linguagens  mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=4lex-passos&show_icons=true&layout=compact)
 
 
